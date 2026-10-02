@@ -28,3 +28,6 @@ Each agent must compare its repository, branches, and pending work with the same
 ## Filename privacy
 
 User-pasted text basenames in review metadata are replaced by stable neutral IDs. Original files remain in their source repositories; no pasted-text payloads are included in this review bundle.
+## Personal-record diff privacy
+
+Diff hunks that reproduce personal-record values are redacted from this public evidence file. The separate path/hash inventory preserves accounting; source records remain in their original repositories.
