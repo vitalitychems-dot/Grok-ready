@@ -17,7 +17,7 @@
 --- a/.gitignore
 +++ b/.gitignore
 @@ -60,3 +60,5 @@
- attached_assets/Pasted-*.txt
+ attached_assets/user-provided-text-280551d35532.txt
  artifacts/api-server/.data/income-snapshots.json
  _evolutions/
 +artifacts/api-server/.local-data/natal-vault.json

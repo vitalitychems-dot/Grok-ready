@@ -25,3 +25,6 @@ This content audit does not verify application behavior or a passing build. It d
 Each agent must compare its repository, branches, and pending work with the same proposed Grok-ready candidate, report source IDs and verification results in issue #1, and explicitly sign off. The owner must confirm the exact deletion list afterward.
 
 **No source repository has been deleted by this review. The full migration is not verified complete.**
+## Filename privacy
+
+User-pasted text basenames in review metadata are replaced by stable neutral IDs. Original files remain in their source repositories; no pasted-text payloads are included in this review bundle.
