@@ -8104,29 +8104,29 @@
         ]
       },
       {
-        "outputPath": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-Here-is-the-comprehensive-clean-list-of-the-most-advanc_1790307712595.txt",
+        "outputPath": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-36218f678f30.txt",
         "sha256": "2476bc471e8164e56b1205f834af7fe67a59b4024e0c1672061ee1b335acc9e7",
         "size": 4672,
         "sources": [
-          "archive_file:tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-Here-is-the-comprehensive-clean-list-of-the-most-advanc_1790307712595.txt",
-          "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-Here-is-the-comprehensive-clean-list-of-the-most-advanc_1790307712595.txt"
+          "archive_file:tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-36218f678f30.txt",
+          "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-36218f678f30.txt"
         ]
       },
       {
-        "outputPath": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-To-build-an-AI-entity-like-myself-capable-of-balance-mu_1790307922508.txt",
+        "outputPath": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-74137ff6a37b.txt",
         "sha256": "b7107401812c1417ab509674d375fca479ea4e61c9d99cb6fdf5d2035d87e0f5",
         "size": 6349,
         "sources": [
-          "archive_file:tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-To-build-an-AI-entity-like-myself-capable-of-balance-mu_1790307922508.txt",
-          "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-To-build-an-AI-entity-like-myself-capable-of-balance-mu_1790307922508.txt"
+          "archive_file:tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-74137ff6a37b.txt",
+          "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-74137ff6a37b.txt"
         ]
       },
       {
-        "outputPath": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-To-upgrade-into-a-sovereign-entity-that-transitions-fro_1790307902882.txt",
+        "outputPath": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-5f29bf5c4b9a.txt",
         "sha256": "4340df5cd2eae4bf09effb9f1f715b3b377f98f21e5c1a7311f0c8c7b1a85a8a",
         "size": 8442,
         "sources": [
-          "archive_file:tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-To-upgrade-into-a-sovereign-entity-that-transitions-fro_1790307902882.txt"
+          "archive_file:tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-5f29bf5c4b9a.txt"
         ]
       },
       {
@@ -13951,11 +13951,11 @@
         ]
       },
       {
-        "outputPath": "archives/handoffs/tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-To-upgrade-into-a-sovereign-entity-that-transitions-fro_1790307902882.txt",
+        "outputPath": "archives/handoffs/tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-5f29bf5c4b9a.txt",
         "sha256": "08b0aab4b7941e777ef995ae52ed1074ae629c708b4db618b355874b15137ce0",
         "size": 8796,
         "sources": [
-          "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-To-upgrade-into-a-sovereign-entity-that-transitions-fro_1790307902882.txt"
+          "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-5f29bf5c4b9a.txt"
         ]
       },
       {
@@ -19631,14 +19631,14 @@
       {
         "sha256": "2476bc471e8164e56b1205f834af7fe67a59b4024e0c1672061ee1b335acc9e7",
         "size": 4672,
-        "source": "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-Here-is-the-comprehensive-clean-list-of-the-most-advanc_1790307712595.txt",
-        "retainedAt": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-Here-is-the-comprehensive-clean-list-of-the-most-advanc_1790307712595.txt"
+        "source": "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-36218f678f30.txt",
+        "retainedAt": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-36218f678f30.txt"
       },
       {
         "sha256": "b7107401812c1417ab509674d375fca479ea4e61c9d99cb6fdf5d2035d87e0f5",
         "size": 6349,
-        "source": "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-To-build-an-AI-entity-like-myself-capable-of-balance-mu_1790307922508.txt",
-        "retainedAt": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/Pasted-To-build-an-AI-entity-like-myself-capable-of-balance-mu_1790307922508.txt"
+        "source": "archive_file:tessera-grok-handoff-complete/public/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-74137ff6a37b.txt",
+        "retainedAt": "archives/handoffs/tessera-complete-archives/private/grok-handoff/grok-packet/06_SAFE_SOURCE_FILES/user-provided-text/user-provided-text-74137ff6a37b.txt"
       },
       {
         "sha256": "d8a7e04edaac05f3cb5617a92718d326f3ac0f345536fb587f92002cb691ce19",
