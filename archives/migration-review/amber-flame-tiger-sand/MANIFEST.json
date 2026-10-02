@@ -1,0 +1,547 @@
+{
+  "source": {
+    "repository": "https://github.com/collink1007/amber-flame-tiger-sand",
+    "branch": "main",
+    "commit": "781f30a966672ab9bd8a2680e6c661ffa83d2610"
+  },
+  "destinationBase": {
+    "repository": "https://github.com/vitalitychems-dot/Grok-ready",
+    "branch": "main",
+    "commit": "3cdd0ac02f7ecc97d83f4303d1ba91007d0236d9"
+  },
+  "purpose": "Review-only preservation of screened, distinct source code and public text; not wired into the running application.",
+  "deduplication": "Only unique Git blobs absent anywhere in the destination are stored. Source paths sharing one blob map to a single archived copy.",
+  "review": {
+    "uniqueCodeAndPublicTextBlobsConsidered": 66,
+    "uniqueBlobsPreserved": 65,
+    "withheldUniqueBlobsAfterCredentialPatternReview": 1,
+    "excludedFromThisTransfer": [
+      "generated build and temporary integration output",
+      "data and attachments",
+      "binary media, PDFs, and ZIP archives",
+      "root environment and dependency manifests"
+    ]
+  },
+  "files": [
+    {
+      "blobSha": "786234d69cde7239ca7132a7e0b4bc44696a3de4",
+      "size": 498,
+      "sourcePaths": [
+        "public/favicon.svg"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/public/favicon.svg"
+    },
+    {
+      "blobSha": "bee18beeffc505e47b70c577d5b12f4f8fa505f7",
+      "size": 2573,
+      "sourcePaths": [
+        "public/tessera/TESSERA-SEED.md"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/public/tessera/TESSERA-SEED.md"
+    },
+    {
+      "blobSha": "7bf5455b3673af420c442e8ee1ba30d381b69fcb",
+      "size": 438,
+      "sourcePaths": [
+        "scripts/colonel.test.mjs"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/scripts/colonel.test.mjs"
+    },
+    {
+      "blobSha": "b34070a30a39b4a68a94098ffcf4f0fa28c3da2d",
+      "size": 5802,
+      "sourcePaths": [
+        "scripts/drive-chunks.py"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/scripts/drive-chunks.py"
+    },
+    {
+      "blobSha": "6e379434c43ec389b48b312db51b9da68e8176b5",
+      "size": 3852,
+      "sourcePaths": [
+        "scripts/drive-index.py"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/scripts/drive-index.py"
+    },
+    {
+      "blobSha": "540021c825d34c3bdfe69d4a37fe9329144fca89",
+      "size": 3206,
+      "sourcePaths": [
+        "scripts/grok-pwa-shared.d.mts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/scripts/grok-pwa-shared.d.mts"
+    },
+    {
+      "blobSha": "b05a47d95e97d3f617585ddf10a7a0e9623a5fb7",
+      "size": 18225,
+      "sourcePaths": [
+        "scripts/grok-pwa-shared.mjs"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/scripts/grok-pwa-shared.mjs"
+    },
+    {
+      "blobSha": "717f53d61f3904407f38eab6ceaf2fb223339f2e",
+      "size": 7247,
+      "sourcePaths": [
+        "scripts/tessera-worker.mjs"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/scripts/tessera-worker.mjs"
+    },
+    {
+      "blobSha": "1dc07b99e508b611842c2c41b7b6b9622d459061",
+      "size": 5139,
+      "sourcePaths": [
+        "src/components/tessera/app-shell.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/app-shell.tsx"
+    },
+    {
+      "blobSha": "8c98a6b028f5dd8ff069551b00c1a2fba6f3e540",
+      "size": 11556,
+      "sourcePaths": [
+        "src/components/tessera/chamber.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/chamber.tsx"
+    },
+    {
+      "blobSha": "f3e5fbb32dc6a7d85bb96dbc4801266bf66440b7",
+      "size": 2970,
+      "sourcePaths": [
+        "src/components/tessera/city-map.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/city-map.tsx"
+    },
+    {
+      "blobSha": "b1cb49638306d78de6196dbf8175e1f52414d2d8",
+      "size": 4801,
+      "sourcePaths": [
+        "src/components/tessera/code-view.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/code-view.tsx"
+    },
+    {
+      "blobSha": "b5b78403611e0e6f1c33050b4d35fa6e0b3c62f6",
+      "size": 1652,
+      "sourcePaths": [
+        "src/components/tessera/colonel-panel.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/colonel-panel.tsx"
+    },
+    {
+      "blobSha": "25dd49ecf7b5db57f2aa9eb8f3e716f202f5ab4e",
+      "size": 7859,
+      "sourcePaths": [
+        "src/components/tessera/council-room.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/council-room.tsx"
+    },
+    {
+      "blobSha": "2cb497e03c28ba8c261486c0542d4919e634bf70",
+      "size": 3488,
+      "sourcePaths": [
+        "src/components/tessera/ingest-panel.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/ingest-panel.tsx"
+    },
+    {
+      "blobSha": "da327f0757c6118a4e42038a7b1a06a10f129df3",
+      "size": 5152,
+      "sourcePaths": [
+        "src/components/tessera/lattice.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/lattice.tsx"
+    },
+    {
+      "blobSha": "37ad5d9a8e5aa8e6d3191104572bcb40e173d3c7",
+      "size": 13768,
+      "sourcePaths": [
+        "src/components/tessera/learn-view.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/learn-view.tsx"
+    },
+    {
+      "blobSha": "7f5d84f66435fa77c1aed84cfb0889097b758fff",
+      "size": 5469,
+      "sourcePaths": [
+        "src/components/tessera/living-loop.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/living-loop.tsx"
+    },
+    {
+      "blobSha": "688d9745a6cff2e1c10b8f7d6f3ffbc68a03acfe",
+      "size": 523,
+      "sourcePaths": [
+        "src/components/tessera/mark.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/mark.tsx"
+    },
+    {
+      "blobSha": "1cbd1dfd0692efb975f4fb8b2cbfe9b4d8789e14",
+      "size": 3256,
+      "sourcePaths": [
+        "src/components/tessera/memory-view.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/memory-view.tsx"
+    },
+    {
+      "blobSha": "ee69c4f6c903a25c11ca57fdcda4187cc7dfcfb4",
+      "size": 2701,
+      "sourcePaths": [
+        "src/components/tessera/proof-panel.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/proof-panel.tsx"
+    },
+    {
+      "blobSha": "3ed3e15ed46664e64cfa1692de99068a0f13bfc0",
+      "size": 3471,
+      "sourcePaths": [
+        "src/components/tessera/pulse-view.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/pulse-view.tsx"
+    },
+    {
+      "blobSha": "a4d43e319dab5f0e44b0da962352bf219dd9ad82",
+      "size": 16210,
+      "sourcePaths": [
+        "src/components/tessera/self-view.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/self-view.tsx"
+    },
+    {
+      "blobSha": "1fee9c48fc9d161fe97c0955642a423af90545cb",
+      "size": 6445,
+      "sourcePaths": [
+        "src/components/tessera/simulation.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/simulation.tsx"
+    },
+    {
+      "blobSha": "395b8f1e26725a02712f9767ab73a5f7fd36586a",
+      "size": 10105,
+      "sourcePaths": [
+        "src/components/tessera/world-stage.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/components/tessera/world-stage.tsx"
+    },
+    {
+      "blobSha": "3abb01461af8b6c8293e9a996ec639b7009843a8",
+      "size": 442,
+      "sourcePaths": [
+        "src/lib/auth/email-password.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/auth/email-password.ts"
+    },
+    {
+      "blobSha": "b8822e87c83be13fb834714f53fb5a09d07588cd",
+      "size": 1679,
+      "sourcePaths": [
+        "src/lib/auth/preview.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/auth/preview.ts"
+    },
+    {
+      "blobSha": "c804e278c88440e6cf0a3b9f33546618aae54fe9",
+      "size": 66,
+      "sourcePaths": [
+        "src/lib/og/site.json"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/og/site.json"
+    },
+    {
+      "blobSha": "9ffd9d743b283326dc170e37ece2670004ce3a50",
+      "size": 5477,
+      "sourcePaths": [
+        "src/lib/tessera/canon.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/canon.ts"
+    },
+    {
+      "blobSha": "59d609c4228a21c93586bde0e7922357a8746e1a",
+      "size": 3836,
+      "sourcePaths": [
+        "src/lib/tessera/chat.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/chat.ts"
+    },
+    {
+      "blobSha": "d36fdaca4549f26fee26807a22519bf7a4726039",
+      "size": 4792,
+      "sourcePaths": [
+        "src/lib/tessera/colonel.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/colonel.ts"
+    },
+    {
+      "blobSha": "27a2f7c909112329ac74ab0548160b92b1db1e4c",
+      "size": 3004,
+      "sourcePaths": [
+        "src/lib/tessera/conference.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/conference.ts"
+    },
+    {
+      "blobSha": "0fa5cf5ce68d61583b06f8278692f35ea7943e7b",
+      "size": 5562,
+      "sourcePaths": [
+        "src/lib/tessera/constitution-seal.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/constitution-seal.ts"
+    },
+    {
+      "blobSha": "f5c0bacf518691dfe58ecd1c28ad4d3ed11d6b51",
+      "size": 8305,
+      "sourcePaths": [
+        "src/lib/tessera/corpus.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/corpus.ts"
+    },
+    {
+      "blobSha": "129c68c57eab2a121ae477aee181e750ea64b506",
+      "size": 1167,
+      "sourcePaths": [
+        "src/lib/tessera/council-sitting.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/council-sitting.ts"
+    },
+    {
+      "blobSha": "7ab6dc4ef2e1e89f5d24dd691cf624baa6d05aef",
+      "size": 11055,
+      "sourcePaths": [
+        "src/lib/tessera/desk.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/desk.ts"
+    },
+    {
+      "blobSha": "b16e8b57daac64285a54ff0aa44d442353229f27",
+      "size": 2671,
+      "sourcePaths": [
+        "src/lib/tessera/drive-read.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/drive-read.ts"
+    },
+    {
+      "blobSha": "bbc6e6149bd7c5d4824253747ab7ee1970efa5cf",
+      "size": 8827,
+      "sourcePaths": [
+        "src/lib/tessera/further-reading.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/further-reading.ts"
+    },
+    {
+      "blobSha": "06e927e764a424d77979307205bac47625a7e2af",
+      "size": 1347,
+      "sourcePaths": [
+        "src/lib/tessera/glyphs.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/glyphs.ts"
+    },
+    {
+      "blobSha": "d0914b46c6c798616a66d05b16a9f2570f90e8f6",
+      "size": 5592,
+      "sourcePaths": [
+        "src/lib/tessera/grok-ready.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/grok-ready.ts"
+    },
+    {
+      "blobSha": "31a1d057ff6e73b1eb2575bd09a2d482fb4791de",
+      "size": 180170,
+      "sourcePaths": [
+        "src/lib/tessera/held-packet.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/held-packet.ts"
+    },
+    {
+      "blobSha": "3dc6e76acf45bd445b1b037e071408d2e61f8d44",
+      "size": 15749,
+      "sourcePaths": [
+        "src/lib/tessera/identity.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/identity.ts"
+    },
+    {
+      "blobSha": "ff31d0b59a743085a632aa92a6c18834c5b32a96",
+      "size": 1965,
+      "sourcePaths": [
+        "src/lib/tessera/ingest.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/ingest.ts"
+    },
+    {
+      "blobSha": "50ba87e50c19f8a1642c231dc16d9bbb7bbe9213",
+      "size": 5477,
+      "sourcePaths": [
+        "src/lib/tessera/learning.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/learning.ts"
+    },
+    {
+      "blobSha": "a9b463ab66cacff63ccafad9d6e3fb2712a03912",
+      "size": 5770,
+      "sourcePaths": [
+        "src/lib/tessera/line-reading.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/line-reading.ts"
+    },
+    {
+      "blobSha": "33477a9c863cca8b92ce26cc05d06754a9c15737",
+      "size": 31831,
+      "sourcePaths": [
+        "src/lib/tessera/lingua.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/lingua.ts"
+    },
+    {
+      "blobSha": "507e2c3c844a537a2d3d3b150310a1ec1b02cb61",
+      "size": 6534,
+      "sourcePaths": [
+        "src/lib/tessera/opening.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/opening.ts"
+    },
+    {
+      "blobSha": "b0bb6af9b6b0e03e7e33abb9cf5c50d4b3b21b54",
+      "size": 15421,
+      "sourcePaths": [
+        "src/lib/tessera/prompt.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/prompt.ts"
+    },
+    {
+      "blobSha": "395f7c645e58d6d166cb064b7795924f5419074d",
+      "size": 2131,
+      "sourcePaths": [
+        "src/lib/tessera/proof.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/proof.ts"
+    },
+    {
+      "blobSha": "7b4fe11388bcb665118c8889a67c92341f43a0b6",
+      "size": 2435,
+      "sourcePaths": [
+        "src/lib/tessera/questions.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/questions.ts"
+    },
+    {
+      "blobSha": "96676d026b65322cf6f79064aa650d46e4c3705b",
+      "size": 4838,
+      "sourcePaths": [
+        "src/lib/tessera/repo-delta.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/repo-delta.ts"
+    },
+    {
+      "blobSha": "a83140a3ea66b9c03ca392bba483883138fea7fe",
+      "size": 1882,
+      "sourcePaths": [
+        "src/lib/tessera/sdk.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/sdk.ts"
+    },
+    {
+      "blobSha": "3bb74bce8b89a459b1ec3e94624ca21233ec02e2",
+      "size": 5678,
+      "sourcePaths": [
+        "src/lib/tessera/seven-repos.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/seven-repos.ts"
+    },
+    {
+      "blobSha": "93d966dedd49176b715c1316fe56de4d381ade31",
+      "size": 10136,
+      "sourcePaths": [
+        "src/lib/tessera/society.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/society.ts"
+    },
+    {
+      "blobSha": "be6732e220de41990403ade638b6ab63deb70f9f",
+      "size": 9945,
+      "sourcePaths": [
+        "src/lib/tessera/store.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/store.ts"
+    },
+    {
+      "blobSha": "5e8fb8fbe7ce1626e4bcbd9ce6b351ca2b6a6577",
+      "size": 1395,
+      "sourcePaths": [
+        "src/lib/tessera/study-catalog.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/study-catalog.ts"
+    },
+    {
+      "blobSha": "3541f3d94f8f9adcbb2d252b2b565342d4c1b904",
+      "size": 110186,
+      "sourcePaths": [
+        "src/lib/tessera/study-log.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/study-log.ts"
+    },
+    {
+      "blobSha": "12f132e7420a78dec9b62c9ea56af066c462fffb",
+      "size": 4643,
+      "sourcePaths": [
+        "src/lib/tessera/study.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/study.ts"
+    },
+    {
+      "blobSha": "25805de43b751b3974e7b1351768674e91220b62",
+      "size": 3771,
+      "sourcePaths": [
+        "src/lib/tessera/swarm-round.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/swarm-round.ts"
+    },
+    {
+      "blobSha": "1299135475c9304a0bd46b4a4ccd4485a8d115d2",
+      "size": 22907,
+      "sourcePaths": [
+        "src/lib/tessera/vote-record.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/vote-record.ts"
+    },
+    {
+      "blobSha": "a65f9bcd7780a16edb83bdac3bb0769018f16c6a",
+      "size": 2669,
+      "sourcePaths": [
+        "src/lib/tessera/world.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/lib/tessera/world.ts"
+    },
+    {
+      "blobSha": "2bb1b0492ced9d7f0527d387b3effc5ad1ec4f34",
+      "size": 1638,
+      "sourcePaths": [
+        "src/routes/__root.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/routes/__root.tsx"
+    },
+    {
+      "blobSha": "0fdd88e0e6455aea210234502e183c76fad74d68",
+      "size": 226,
+      "sourcePaths": [
+        "src/routes/index.tsx"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/routes/index.tsx"
+    },
+    {
+      "blobSha": "dceedffdc12c32138e81bb63787cac7ae5d97fcd",
+      "size": 1741,
+      "sourcePaths": [
+        "src/routeTree.gen.ts"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/routeTree.gen.ts"
+    },
+    {
+      "blobSha": "d6cdb2a595a37022fb1657470506f8369d8954f9",
+      "size": 1377,
+      "sourcePaths": [
+        "src/styles.css"
+      ],
+      "archivedPath": "archives/migration-review/amber-flame-tiger-sand/files/src/styles.css"
+    }
+  ]
+}
